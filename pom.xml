@@ -18,6 +18,7 @@
         <module>other-examples</module>
         <module>redis-example</module>
         <module>spring-boot-example</module>
+        <module>quarkus-example</module>
         <module>vespa-example</module>
         <module>weaviate-example</module>
     </modules>
